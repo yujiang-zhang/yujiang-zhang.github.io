@@ -7,7 +7,7 @@ theme:
   link: https://github.com/zyjared/
 ---
 
-# __zy__**Jared**
+# **Jared**
 
 > 欢迎访问😄，该页面使用 [`@zyjared/buildpage`](https://github.com/zyjared/site) 生成。
 
